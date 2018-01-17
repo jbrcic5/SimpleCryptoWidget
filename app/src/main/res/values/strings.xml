@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BitfinexWidgetApp</string>
+    <string name="appwidget_text">Example text\nExampletext</string>
+    <string name="add_widget">Add widget</string>
+</resources>
